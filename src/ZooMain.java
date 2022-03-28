@@ -1,13 +1,7 @@
 
 import java.util.Scanner;
-/**
- * Main class for program initialization.
- */
+
 public class ZooMain {
-    /**
-     * Main function for our program.
-     * @param args
-     */
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
         
