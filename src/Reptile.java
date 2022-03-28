@@ -1,10 +1,8 @@
-package Faunas;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Bird extends Fauna {
-    public Bird(String info) {
+public class Reptile extends Fauna{
+    public Reptile(String info) {
         ArrayList<String> splitInfo = new ArrayList<String>(Arrays.asList(info.split(",")));
 
         species = splitInfo.get(2);

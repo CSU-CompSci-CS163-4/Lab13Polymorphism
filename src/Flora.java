@@ -1,5 +1,3 @@
-package Floras;
-
 public class Flora {
     public String species;
     public String scientific;

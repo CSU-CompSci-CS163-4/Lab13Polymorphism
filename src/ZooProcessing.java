@@ -4,9 +4,6 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-import Floras.*;
-import Faunas.*;
-
 public class ZooProcessing {
     ArrayList<Flora> floraList = new ArrayList<>();
     ArrayList<Fauna> faunaList = new ArrayList<>();
