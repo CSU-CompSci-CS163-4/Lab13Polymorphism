@@ -9,7 +9,7 @@ You know the drill for Tuesday labs, start in the `main` function, located in `Z
 Once you have given your program a proper reading, try to run it and follow along with what is happening before we move on to the implementation and self-explanation section.
 
 ## Step 1: Self-Explanation
-There are only two self-explanations to complete in the `ZooProcessing` class, after reading the javadocs write out your logic as to what the program should do. If you run into any difficulties during implementation, try to pseudo-code along with you self-explanation logic, this may reveal some useful insight.
+There are only two self-explanations to complete in the `ZooProcessing` class, after reading the javadocs write out your logic as to what the program should do. If you run into any difficulties during implementation, try to pseudo-code along with your self-explanation logic, this may reveal some useful insight.
 
 ## Step 2: Implementation
 After your self-explanations, move onto your implementation. I would highly recommend incrementally working through these methods and test often!
@@ -41,10 +41,10 @@ public class MainClass {
 }
 ```
 
-So with the previous example we can see how the `Ford` class `extends` the `Car` class and is able to use the `vroom()` method.
+So with the previous example, we can see how the `Ford` class `extends` the `Car` class and is able to use the `vroom()` method.
 
 ### instanceof
-`instanceof` is a useful keyword that allows one to see if a certain class is an "instance of" a certain class. This allows us to examine an objects degree of polymorphism. Depending upon the comparison made, a `true` or `false` value is returned, making this especially useful in conditional statements.
+`instanceof` is a useful keyword that allows one to see if a certain class is an "instance of" a certain class. This allows us to examine an object's degree of polymorphism. Depending upon the comparison made, a `true` or `false` value is returned, making this especially useful in conditional statements.
 
 Following our previous car example:
 ``` java
