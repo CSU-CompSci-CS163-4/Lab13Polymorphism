@@ -11,6 +11,7 @@ public class ZooMain {
 
         ZooProcessing processor = new ZooProcessing();
         processor.processFile(fileName);
+        processor.interact();
 
         scnr.close();
     }

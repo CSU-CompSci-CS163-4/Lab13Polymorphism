@@ -22,8 +22,6 @@ public class ZooProcessing {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-
-        interact();
     }
 
     public void interact() {
