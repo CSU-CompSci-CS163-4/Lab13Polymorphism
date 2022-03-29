@@ -21,6 +21,7 @@ public class ZooProcessing {
             scnr.close();
         } catch (FileNotFoundException e) {
             e.printStackTrace();
+            System.exit(-1);
         }
     }
 
