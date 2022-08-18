@@ -15,7 +15,7 @@ There are only two self-explanations to complete in the `ZooProcessing` class, a
 After your self-explanations, move onto your implementation. I would highly recommend incrementally working through these methods and test often!
 
 ## Step 3: Turning In
-Once you have completely and thoroughly tested your implementations, present your self-explanations to your TA and turn it into zyBooks!
+Once you have completely and thoroughly tested your implementations, present your self-explanations to your TA and turn it into zyBooks! Online students will not have the option to submit their self-explanations but it is still highly recommended that they complete them in order to better understand the code.
 
 # Additional Information
 ## Polymorphism
