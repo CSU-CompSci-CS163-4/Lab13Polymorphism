@@ -11,7 +11,6 @@ public class ZooProcessing {
     public void processFile(String fileName) {
         try {            
             Scanner scnr = new Scanner(new File(fileName));
-            scnr.nextLine();
             while(scnr.hasNextLine()) {
                 String organismLine = scnr.nextLine();
                 
